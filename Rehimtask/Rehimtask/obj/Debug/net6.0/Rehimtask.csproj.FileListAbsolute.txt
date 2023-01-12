@@ -1,0 +1,15 @@
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\bin\Debug\net6.0\Rehimtask.exe
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\bin\Debug\net6.0\Rehimtask.deps.json
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\bin\Debug\net6.0\Rehimtask.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\bin\Debug\net6.0\Rehimtask.dll
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\bin\Debug\net6.0\Rehimtask.pdb
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\obj\Debug\net6.0\Rehimtask.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\obj\Debug\net6.0\Rehimtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\obj\Debug\net6.0\Rehimtask.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\obj\Debug\net6.0\Rehimtask.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\obj\Debug\net6.0\Rehimtask.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\obj\Debug\net6.0\Rehimtask.dll
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\obj\Debug\net6.0\refint\Rehimtask.dll
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\obj\Debug\net6.0\Rehimtask.pdb
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\obj\Debug\net6.0\Rehimtask.genruntimeconfig.cache
+C:\Users\Ziya\Desktop\c#\Rehimtask\Rehimtask\obj\Debug\net6.0\ref\Rehimtask.dll
